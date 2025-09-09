@@ -7,3 +7,7 @@ Please feel free to make use of this code as you see fit, please reference the v
 
 The code illustrates how to fit a dust continuum model. We do not model PHA emission and stellar contributions. However, the code could easily be extended to model this emission components as well. In its current format it fits only 1D spectra. With extra work, it could be extended to fit full 3D data cubes.
 
+We provide the conda envirmoments on which this code ran, <nifty_conda_env.txt> is the exact, cluster specific package, <nifty.yml> is the standard cross-plattform conda envirmoment.
+
+
+
