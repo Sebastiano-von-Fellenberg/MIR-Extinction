@@ -1,7 +1,7 @@
 ﻿# MIR-Extinction
 
 This package provides the raw fitting package used to derived the Galactic Center MIR extinction, which was published in von Fellenberg et al. 2025, and Michail et al. 2025. 
-It uses the nifty frame work to fit flexible Gaussian Fields modeling the dust opactiy function $\tau(\lambda)$ and the dust temperature optical depth at $\lambda=9.8 \mu m$ ($\Psi(T,\tau_{9.8}$)). It is based upon Donnan et al. 2024 and references therein.
+It uses the nifty frame work (https://gitlab.mpcdf.mpg.de/ift/nifty, specifcally nifty8.re) to fit flexible Gaussian Fields modeling the dust opactiy function $\tau(\lambda)$ and the dust temperature optical depth at $\lambda=9.8 \mu m$ ($\Psi(T,\tau_{9.8}$)). It is based upon Donnan et al. 2024 and references therein.
 
 Please feel free to make use of this code as you see fit, please reference the von Fellenberg et al. 2025, Michail et al. 2025, as well as the nifty packages and Donnan et al. 2024. 
 
@@ -13,5 +13,6 @@ We provide the conda envirmoments on which this code ran, <nifty_conda_env.txt> 
 Copyright (c) 2025 Sebastiano von Fellenberg
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction...
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+
 
 
