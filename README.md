@@ -9,5 +9,9 @@ The code illustrates how to fit a dust continuum model. We do not model PHA emis
 
 We provide the conda envirmoments on which this code ran, <nifty_conda_env.txt> is the exact, cluster specific package, <nifty.yml> is the standard cross-plattform conda envirmoment.
 
+# MIT License
+Copyright (c) 2025 Sebastiano von Fellenberg
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction...
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
 
