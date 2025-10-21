@@ -7,8 +7,8 @@ This package provides the raw fitting code used to derive the Galactic Center MI
 
 It uses the **NIFTy framework** ([https://gitlab.mpcdf.mpg.de/ift/nifty](https://gitlab.mpcdf.mpg.de/ift/nifty), specifically *nifty8.re*) to fit flexible Gaussian fields modeling:
 
-- the dust opacity function \(\tau(\lambda)\)  
-- the dust temperature–optical depth at \(\lambda = 9.8\,\mu\text{m}\), \(\Psi(T, \tau_{9.8})\)
+- the dust opacity function $\(\tau(\lambda)\)$  
+- the dust temperature–optical depth at $\(\lambda = 9.8\,\mu\text{m}\), \(\Psi(T, \tau_{9.8})\)$
 
 The methodology is based on Donnan et al. (2024) and references therein.
 
@@ -45,6 +45,7 @@ We provide the conda environments used to run this code:
 Copyright (c) 2025 Sebastiano von Fellenberg
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction...
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+
 
 
 
