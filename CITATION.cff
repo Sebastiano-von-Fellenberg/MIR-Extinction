@@ -1,9 +1,9 @@
-cff-version: 1.1.0
+cff-version: 1.0.1
 message: "If you use this software, please cite it as below."
-authors:
-- family-names: von Fellenberg  
-  given-names: Sebastiano
-orcid: https://orcid.org0000-0002-9156-2249
-title:
-version: astronomy
+title: "Astronomy"
+version: "1.0.1"
 date-released: 2025-10-21
+authors:
+  - family-names: "von Fellenberg"
+    given-names: "Sebastiano"
+    orcid: "https://orcid.org/0000-0002-9156-2249"
